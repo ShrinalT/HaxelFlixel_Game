@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "01-Breakout-Tiles.png",
+	"frame": {"x":0,"y":0,"w":384,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":128},
+	"sourceSize": {"w":384,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girl.png",
+	"format": "RGBA8888",
+	"size": {"w":384,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:de7154312c5601477842e13a1426cac8:65a3467267afeb2d0cafa16f6d6e13a9:165fda0d1be138e47f78fe530c9a9f92$"
+}
+}
